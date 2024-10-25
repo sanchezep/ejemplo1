@@ -10,6 +10,11 @@
 
 /*
  * Funcion ejemplo
+ *
+ *
+ *
+ *
+ *
  */
 
 float calcula(int n) {
